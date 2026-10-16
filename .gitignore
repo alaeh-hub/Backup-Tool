@@ -1,0 +1,10 @@
+# Secrets
+restic-pass.txt
+*.pass
+
+# Runtime output / per-PC state
+backup-log.txt
+backup-settings-*.json
+
+# restic binary (download from https://github.com/restic/restic/releases)
+restic.exe
